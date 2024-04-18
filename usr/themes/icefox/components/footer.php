@@ -11,7 +11,7 @@ if (!defined('__TYPECHO_ROOT_DIR__'))
     <?php
     $beian = $this->options->beian;
     if (isset($beian)) {
-        echo '<a href="https://beian.miit.gov.cn/" class="cursor-pointer text-gray-300" target="_blank">' . $beian . '</a>';
+        echo '<a href="https://icp.gov.moe/?keyword=20248880/" class="cursor-pointer text-gray-300" target="_blank">'.$beian.'</a>';
     }
     ?>
 </div>
