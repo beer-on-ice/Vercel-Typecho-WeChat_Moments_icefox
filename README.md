@@ -5,7 +5,7 @@
 ## 部署教程
 [在Vercel下部署 Typecho 动态博客（以IceFox微信朋友圈主题和SSL数据库连接为例）](https://blog.qixing1217.top/article/8879698e-363b-407a-9ec4-72f713c4e0bd)
 
-<a href="https://vercel.com/new/import?s=https://github.com/qixing-jk/Vercel-Typecho-WeChat_Moments_icefox&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=vercel-typecho-we-chat-moments-icefox&framework=other&totalProjects=1&remainingProjects=1"><img src="https://vercel.com/button"></a>
+<a href="https://vercel.com/new/import?s=https://github.com/beer-on-ice/Vercel-Typecho-WeChat_Moments_icefox&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=vercel-typecho-we-chat-moments-icefox&framework=other&totalProjects=1&remainingProjects=1"><img src="https://vercel.com/button"></a>
 ### 环境变量
 ```dotenv
 TYPECHO_HOST="" # 数据库地址
