@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__'))
 ?>
 
 <div class="fixed left-10 bottom-10 text-gray-300 text-[12px] side-area">
-    <a href="https://sob.im" class="cursor-pointer text-gray-300" target="_blank">博主主页</a> .
+    <a href="https://666986.xyz" class="cursor-pointer text-gray-300" target="_blank">博主主页</a> .
     <?php
     $beian = $this->options->beian;
     if (isset($beian)) {
